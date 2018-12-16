@@ -1,0 +1,62 @@
+     #main-div
+{
+    margin-left: 50px;
+	margin-top: -100px;
+    width: 500px;
+	height: 300px;
+	padding: 35px;
+	position: absolute;
+	left:40%;
+	top:40%;
+}
+     /*.cats {*/
+         /*margin-left:35%;*/
+         /*display:block;*/
+         /*margin-top:auto;*/
+         /*width: 400px;*/
+         /*height: 330px;*/
+         /*background:url('/static/images/ico-cats.png');*/
+         /*background-size: 100% 100%;*/
+         /*background-repeat: no-repeat;*/
+         /*position: absolute;*/
+     /*}*/
+#question
+{
+    margin:370px 0px 80px 16%;
+}
+#question2
+{
+    margin:340px 0px 100px -15%;
+    width:180px;
+    height:130px;
+	background-color:rgb(33,226,255);
+	border:3px solid lightskyblue;
+    border-radius:80px;
+}
+#rank
+{
+    margin:370px 0px 80px 16%;
+}
+#rank2
+{
+    margin:340px 0px 100px -15%;
+    width:180px;
+    height:130px;
+	background-color:rgb(33,226,255);
+	border:3px solid lightskyblue;
+    border-radius:80px;
+}
+
+#discuss
+{
+    margin:370px 0 80px 16%;
+}
+#discuss2
+{
+    margin:340px 0 100px -15%;
+    width:180px;
+    height:130px;
+	background-color:rgb(33,226,255);
+	border:3px solid lightskyblue;
+    border-radius:80px;
+}
